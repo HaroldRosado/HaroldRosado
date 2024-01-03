@@ -1,3 +1,3 @@
-# Hello, I´m Harold Rosado
+# Hola, Soy Harold Rosado
 
 ### Soy desarrollador web front end
