@@ -4,7 +4,7 @@
 
 Soy aprendiz de desarollo web fronend en busca de mejorar mi experiencia en esta rama de la tecnologia para mejorar cada dia mas.
 
-===
+---
 
 #### Mis Estudios
 
