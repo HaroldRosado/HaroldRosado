@@ -13,5 +13,5 @@ Soy aprendiz de desarollo web frontend en busca de mejorar mi experiencia en est
 3. JavaScript
 
 | Nombre Lenguaje | Descripción | Nivel |
------------------------------------------
+|-----------------|-------------|-------|
 |      HTML5      |  Lenguaje de Marcado  | Medio |
