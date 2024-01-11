@@ -2,7 +2,7 @@
 
 ### Desarrollador Web Front End
 
-Soy aprendiz de desarollo web fronend en busca de mejorar mi experiencia en esta rama de la tecnologia para mejorar cada dia mas.
+Soy aprendiz de desarollo web frontend en busca de mejorar mi experiencia en esta rama de la tecnologia para mejorar cada dia mas.
 
 ---
 
