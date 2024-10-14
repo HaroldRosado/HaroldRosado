@@ -3,6 +3,6 @@
 </header>
 <nav>
   <ul>
-    <li><a href="www.google.com.co">Inicio</a></li>
+    <li><a href="www.google.com.co" target="_blank">Inicio</a></li>
   </ul>
 </nav>
