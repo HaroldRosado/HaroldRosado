@@ -1,3 +1,39 @@
+### 👋 Hola, soy Harold Rosado Vargas
+
+Actualmente me desempeño como **Técnico de Soporte Informático**.  
+En mis tiempos libres, estoy aprendiendo de forma autodidacta **Desarrollo Web Frontend** y he realizado varios proyectos personales para afianzar mis habilidades como desarrollador.  
+Vivo en **Soledad (Atlántico)** y tengo **37 años**.
+
+---
+
+### 🛠️ Tecnologías que estoy aprendiendo
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 💻 Proyectos de Frontend
+
+- [Formulario de contacto con HTML y CSS](https://github.com/haroldrosado/formulario-contacto)
+- [Landing page de producto](https://github.com/haroldrosado/landing-producto)
+- [Portafolio personal](https://github.com/haroldrosado/portafolio-web)
+
+---
+
+### 🎯 Objetivos de Aprendizaje
+
+- Dominar HTML y CSS para crear sitios web responsivos y accesibles.
+- Profundizar en JavaScript para agregar interactividad a mis proyectos.
+- Aprender React para desarrollar interfaces modernas y dinámicas.
+- Mejorar el uso de Git y GitHub para gestionar versiones y colaborar en proyectos.
+- Construir un portafolio profesional con proyectos reales.
+
+---
+
 # 🧭 Ruta de Estudio Frontend para Harold Rosado Vargas
 
 ## ✅ Nivel actual
