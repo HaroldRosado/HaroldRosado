@@ -19,8 +19,8 @@ Vivo en **Soledad (Atlántico)** y tengo **37 años**.
 ### 💻 Proyectos de Frontend
 
 - [Formulario de contacto con HTML y CSS](https://github.com/haroldrosado/formulario-contacto)
-- [Landing page de producto](https://github.com/haroldrosado/landing-producto)
-- [Portafolio personal](https://github.com/haroldrosado/portafolio-web)
+- [Landing page de producto](https://haroldrosado.github.io/landingpage/)
+- [Portafolio personal](https://haroldrosado.github.io/mi-portafolio/)
 
 ---
 
@@ -61,7 +61,7 @@ Vivo en **Soledad (Atlántico)** y tengo **37 años**.
 ## 🎨 Etapa 2: Diseño responsivo y componentes (2–3 semanas)
 **Objetivo:** Crear sitios adaptables y reutilizables.
 
-- [ ] Media queries y diseño mobile-first
+- [x] Media queries y diseño mobile-first
 - [ ] Componentes reutilizables con HTML/CSS
 - [ ] Formularios interactivos con validación JS
 - [ ] Uso de librerías como Bootstrap o Tailwind (opcional)
@@ -93,8 +93,8 @@ Vivo en **Soledad (Atlántico)** y tengo **37 años**.
 **Objetivo:** Mostrar tus habilidades y proyectos reales.
 
 - [ ] Rediseñar tu portafolio con React
-- [ ] Agregar proyectos con buenas prácticas
-- [ ] Desplegar en GitHub Pages, Netlify o Vercel
+- [x] Agregar proyectos con buenas prácticas
+- [x] Desplegar en GitHub Pages, Netlify o Vercel
 - [ ] Agregar README detallados y capturas de pantalla
 
 ---
