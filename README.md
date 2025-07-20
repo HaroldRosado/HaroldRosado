@@ -47,10 +47,10 @@ Vivo en **Soledad (Atlántico)** y tengo **37 años**.
 ## 🧱 Etapa 1: Fundamentos sólidos (1–2 semanas)
 **Objetivo:** Consolidar HTML, CSS y JavaScript básico.
 
-- [ ] HTML semántico y accesibilidad
-- [ ] CSS Flexbox y Grid
+- [x] HTML semántico y accesibilidad
+- [x] CSS Flexbox y Grid
 - [ ] JavaScript: variables, funciones, DOM, eventos
-- [ ] Buenas prácticas con Git y GitHub (commits claros, README, ramas)
+- [x] Buenas prácticas con Git y GitHub (commits claros, README, ramas)
 
 📚 Recursos:
 - https://www.freecodecamp.org/
