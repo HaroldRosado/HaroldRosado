@@ -1,105 +1,88 @@
-### 👋 Hola, soy Harold Rosado Vargas
+# ¡Hola! Soy Harold Rosado 👋
 
-Actualmente me desempeño como **Técnico de Soporte Informático**.  
-En mis tiempos libres, estoy aprendiendo de forma autodidacta **Desarrollo Web Frontend** y he realizado varios proyectos personales para afianzar mis habilidades como desarrollador.  
-Vivo en **Soledad (Atlántico)** y tengo **37 años**.
+💻 **Técnico de Soporte Informático** apasionado por el **Desarrollo Web Frontend** (autodidacta). Me encanta aprender haciendo y transformar ideas en experiencias web funcionales y atractivas.
 
----
-
-### 🛠️ Tecnologías que estoy aprendiendo
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+📍 **Ubicación:** Soledad, Atlántico (Colombia)
+🗓️ **Edad:** 37 años
 
 ---
 
-### 💻 Proyectos de Frontend
+### 🚀 **Mi Stack Actual (y en aprendizaje constante):**
 
-- [Formulario de contacto con HTML y CSS](https://github.com/haroldrosado/formulario-contacto)
-- [Landing page de producto](https://haroldrosado.github.io/landingpage/)
-- [Portafolio personal](https://haroldrosado.github.io/mi-portafolio/)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge">
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 
----
-
-### 🎯 Objetivos de Aprendizaje
-
-- Dominar HTML y CSS para crear sitios web responsivos y accesibles.
-- Profundizar en JavaScript para agregar interactividad a mis proyectos.
-- Aprender React para desarrollar interfaces modernas y dinámicas.
-- Mejorar el uso de Git y GitHub para gestionar versiones y colaborar en proyectos.
-- Construir un portafolio profesional con proyectos reales.
+_¡Próximamente React!_ ⚛️
 
 ---
 
-# 🧭 Ruta de Estudio Frontend para Harold Rosado Vargas
+### 🌟 **Proyectos Frontend Destacados:**
 
-## ✅ Nivel actual
-- Técnico de soporte informático con interés en desarrollo web frontend.
-- Experiencia autodidacta con HTML, CSS y JavaScript.
-- Proyectos personales alojados en GitHub.
-- Uso básico de Git y GitHub.
+Aquí puedes listar tus proyectos. Te sugiero usar enlaces a tus repositorios y, si ya los tienes desplegados, ¡también a la demo!
 
----
-
-## 🧱 Etapa 1: Fundamentos sólidos (1–2 semanas)
-**Objetivo:** Consolidar HTML, CSS y JavaScript básico.
-
-- [x] HTML semántico y accesibilidad
-- [x] CSS Flexbox y Grid
-- [ ] JavaScript: variables, funciones, DOM, eventos
-- [x] Buenas prácticas con Git y GitHub (commits claros, README, ramas)
-
-📚 Recursos:
-- https://www.freecodecamp.org/
-- https://developer.mozilla.org/es/
+* [**Formulario de Contacto**](https://github.com/HaroldRosado/nombre-del-repo-contacto) - Un formulario interactivo con validación.
+* [**Página de Aterrizaje de Productos**](https://github.com/HaroldRosado/nombre-del-repo-landing) - Demostrando diseño responsivo.
+* [**Mi Portafolio Personal**](https://github.com/HaroldRosado/nombre-del-repo-portafolio) - Donde muestro mis habilidades y otros trabajos. _(¡Recomiendo que este sea uno de tus **Pinned Repositories**!)_
 
 ---
 
-## 🎨 Etapa 2: Diseño responsivo y componentes (2–3 semanas)
-**Objetivo:** Crear sitios adaptables y reutilizables.
+### 🎯 **Mis Objetivos de Aprendizaje:**
 
-- [x] Media queries y diseño mobile-first
-- [ ] Componentes reutilizables con HTML/CSS
-- [ ] Formularios interactivos con validación JS
-- [ ] Uso de librerías como Bootstrap o Tailwind (opcional)
-
----
-
-## ⚙️ Etapa 3: JavaScript intermedio (3–4 semanas)
-**Objetivo:** Agregar lógica más compleja a tus proyectos.
-
-- [ ] Manipulación avanzada del DOM
-- [ ] Fetch API y consumo de datos externos (APIs)
-- [ ] LocalStorage y manejo de estado
-- [ ] Modularización de código
+* Dominar HTML y CSS para crear sitios web responsivos y accesibles.
+* Profundizar en JavaScript para añadir interactividad avanzada.
+* Aprender **React** para construir interfaces modernas y eficientes.
+* Perfeccionar el uso de Git y GitHub para un flujo de trabajo profesional.
+* Construir un portafolio profesional con proyectos reales y prácticos.
 
 ---
 
-## ⚛️ Etapa 4: Introducción a React (4–6 semanas)
-**Objetivo:** Aprender el framework más usado en frontend.
+### 🗺️ **Ruta de Estudio Frontend (Mi Hoja de Ruta):**
 
-- [ ] JSX y componentes
-- [ ] Props y estado
-- [ ] Eventos y formularios
-- [ ] Hooks básicos (`useState`, `useEffect`)
-- [ ] Proyecto: To-Do App o Clima con API
+Aquí puedes mantener la estructura que ya tienes, ¡es muy buena!
+
+#### **Nivel Actual:**
+Soy Técnico de Soporte Informático con experiencia autodidacta en HTML, CSS y JavaScript. Tengo un uso básico de Git/GitHub y he desarrollado proyectos personales disponibles en mi perfil de GitHub.
+
+#### **Etapa 1: Fundamentos Sólidos (1-2 semanas)**
+* HTML Semántico.
+* CSS: Flexbox y Grid para maquetación avanzada.
+* JavaScript: Fundamentos, manipulación del DOM, eventos.
+* Git/GitHub: Buenas prácticas, branches, pull requests.
+
+#### **Etapa 2: Diseño Adaptativo y Componentes (2-3 semanas)**
+* Media Queries y Mobile-First.
+* Componentes reutilizables HTML/CSS.
+* Formularios interactivos con validación JavaScript.
+* *(Opcional: Introducción a frameworks CSS como Bootstrap o Tailwind CSS)*
+
+#### **Etapa 3: JavaScript Intermedio (3-4 semanas)**
+* Manipulación avanzada del DOM.
+* Fetch API para consumir datos externos (APIs).
+* Manejo de LocalStorage.
+* Modularización del código JavaScript.
+
+#### **Etapa 4: Introducción a React (4-6 semanas)**
+* Fundamentos de JSX, Componentes, Props, State, Eventos.
+* Hooks básicos (`useState`, `useEffect`).
+* **Proyecto práctico sugerido:** Una aplicación de Lista de Tareas (To-Do App) o una app de Clima.
+
+#### **Etapa 5: Portafolio Profesional (Continuo)**
+* Rediseñar mi portafolio personal utilizando React.
+* Añadir proyectos que demuestren mis habilidades con buenas prácticas de código.
+* Despliegue de proyectos en plataformas como GitHub Pages, Netlify o Vercel.
+* Creación de READMEs detallados y uso de capturas de pantalla/GIFs para cada proyecto.
 
 ---
 
-## 🚀 Etapa 5: Portafolio profesional (continuo)
-**Objetivo:** Mostrar tus habilidades y proyectos reales.
+### 💡 **Mi Próximo Proyecto:**
 
-- [ ] Rediseñar tu portafolio con React
-- [x] Agregar proyectos con buenas prácticas
-- [x] Desplegar en GitHub Pages, Netlify o Vercel
-- [ ] Agregar README detallados y capturas de pantalla
+Un **Buscador de Películas con API** 🎬: Utilizaré HTML, CSS, JavaScript y la Fetch API para conectar con una API pública de películas y mostrar los resultados de búsqueda de forma dinámica.
 
 ---
 
-## 💡 Próximo proyecto sugerido
-**Nombre:** Buscador de películas con API  
-**Tecnologías:** HTML, CSS, JavaScript, Fetch API  
-**Objetivo:** Crear una aplicación que permita buscar películas usando la API de OMDB o TMDB y mostrar resultados con imágenes, títulos y descripciones.
+### 🤝 **Conéctate Conmigo:**
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](https://www.linkedin.com/in/tu-usuario-linkedin/)
