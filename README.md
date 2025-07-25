@@ -25,7 +25,7 @@ Aquí puedes listar tus proyectos. Te sugiero usar enlaces a tus repositorios y,
 
 * [**Formulario de Contacto**](https://github.com/HaroldRosado/nombre-del-repo-contacto) - Un formulario interactivo con validación.
 * [**Página de Aterrizaje de Productos**](https://github.com/HaroldRosado/nombre-del-repo-landing) - Demostrando diseño responsivo.
-* [**Mi Portafolio Personal**](https://github.com/HaroldRosado/nombre-del-repo-portafolio) - Donde muestro mis habilidades y otros trabajos. _(¡Recomiendo que este sea uno de tus **Pinned Repositories**!)_
+* [**Mi Portafolio Personal**](https://haroldrosado.github.io/mi-portafolio/) - Donde muestro mis habilidades y otros trabajos
 
 ---
 
@@ -85,4 +85,4 @@ Un **Buscador de Películas con API** 🎬: Utilizaré HTML, CSS, JavaScript y l
 
 ### 🤝 **Conéctate Conmigo:**
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">](https://www.linkedin.com/in/tu-usuario-linkedin/)
+[<img src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/hanrovar/)
