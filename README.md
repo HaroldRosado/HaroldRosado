@@ -1,4 +1,4 @@
-<img src="https://profile-counter.glitch.me/{HaroldRosado}/count.svg" />
+![Contador de visitas](https://hits.seeyou.design/api/hit?url=https%3A%2F%2Fgithub.com%2FHaroldRosado&style=flat-square&bgColour=0A0A0A&textColour=FFFFFF&maxDigits=4)
 # ¡Hola! Soy Harold Rosado 👋
 
 💻 **Técnico de Soporte Informático** apasionado por el **Desarrollo Web Frontend** (autodidacta). Me encanta aprender haciendo y transformar ideas en experiencias web funcionales y atractivas.
