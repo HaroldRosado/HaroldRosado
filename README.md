@@ -1,3 +1,4 @@
+<img src="https://profile-counter.glitch.me/{HaroldRosado}/count.svg" />
 # ¡Hola! Soy Harold Rosado 👋
 
 💻 **Técnico de Soporte Informático** apasionado por el **Desarrollo Web Frontend** (autodidacta). Me encanta aprender haciendo y transformar ideas en experiencias web funcionales y atractivas.
