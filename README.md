@@ -2,7 +2,7 @@
 <h3 align="center">Desarrollador Frontend en formación | HTML · CSS · JavaScript</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Construyendo+interfaces+limpias+y+funcionales;Aprendiendo+JavaScript+todos+los+d%C3%ADas;Abierto+a+mi+primera+oportunidad+como+Frontend+Dev" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&height=30&lines=Construyendo+interfaces+limpias+y+funcionales;Aprendiendo+JavaScript+todos+los+dias;Abierto+a+mi+primera+oportunidad+Frontend" alt="Typing SVG" />
 </p>
 
 <p align="center">
